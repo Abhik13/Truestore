@@ -142,3 +142,4 @@ const checkAndFetchUser = async (user_id, name, role, email) => {
 };
 
 module.exports = { checkAndFetchUser };
+
